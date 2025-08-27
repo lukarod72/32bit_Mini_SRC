@@ -1,9 +1,4 @@
-helllllo, this is for our 374 lab to collaborate outside of class time
+This is a project completed during ELEC 374 in our second semester, third year (Winter 2024) term with Queen's University. 
 
-_______________________________________________________________________________________________
-_______________________________________________________________________________________________
-|||||| It is me, Joel. I have joined at 12:06 on Thursday Jan. 25th. WHATS UP JITTTTTTT |||||||
-_______________________________________________________________________________________________
-_______________________________________________________________________________________________
-
-FULLED BOXED!
+What is the project?
+This is a verilog based, 32 bit mini SRC (Simple RISC Computer) that is meant to operate on Altera FPGA's. 
